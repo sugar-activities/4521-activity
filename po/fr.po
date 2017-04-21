@@ -1,0 +1,158 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2011 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# user <lionel@olpc-france.org>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-28 22:55+0200\n"
+"PO-Revision-Date: 2011-12-28 23:05+0200\n"
+"Last-Translator: user <lionel@olpc-france.org>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: activity.py:65
+msgid "Zoom out"
+msgstr "Zoom arrière"
+
+#: activity.py:66
+msgid "<ctrl>minus"
+msgstr "<ctrl>moins"
+
+#: activity.py:70
+msgid "Zoom in"
+msgstr "Zoom avant"
+
+#: activity.py:71
+msgid "<ctrl>equal"
+msgstr "<ctrl>égal"
+
+#: activity.py:74
+msgid "View"
+msgstr "Affichage"
+
+#: activity.py:77
+msgid "Empty tree"
+msgstr "Arbre vide"
+
+#: activity.py:81
+msgid "Test"
+msgstr "Test"
+
+#: activity.py:85
+msgid "Napoléon"
+msgstr "Napoléon"
+
+#: activity.py:88
+msgid "Samples"
+msgstr "Exemples"
+
+#: activity.py:118
+msgid "Male"
+msgstr "Mâle"
+
+#: activity.py:121
+msgid "Female"
+msgstr "Femelle"
+
+#: activity.py:135
+msgid "Add parents"
+msgstr "Ajouter parents"
+
+#: activity.py:136
+msgid "Add brother/sister"
+msgstr "Ajouter frère/soeur"
+
+#: activity.py:137
+msgid "Add union"
+msgstr "Ajouter union"
+
+#: activity.py:138
+msgid "Add child"
+msgstr "Ajouter enfant"
+
+#: activity.py:139
+msgid "Delete"
+msgstr "Supprimer"
+
+#: activity.py:462
+msgid "Click a person to edit it"
+msgstr "Cliquer sur une personne pour la modifier"
+
+#: activity.py:464
+msgid "Click here to paste an image"
+msgstr "Cliquer ici pour coller une image"
+
+#: src/tree.py:407
+msgid ""
+"(1746-1785) This young Corsican aristocrat studied law in Italy and Corsica."
+msgstr "(1746-1785) Jeune noble corse, il étudie le droit en Italie et en Corse."
+
+#: src/tree.py:410
+msgid ""
+"(1750-1836) She married very young, at 14 years old. In Corsica, she was "
+"known as the 'little marvel', famed for her beauty far and wide."
+msgstr "(1750-1836) Mariée très jeune, à 14 ans, on l'appelle 'la petite mervielle' car sa beauté est reconnue de tous."
+
+#: src/tree.py:414
+msgid ""
+"(1769-1821) He was born on 15 August 1769 in Ajaccio, Corsica. At the age of "
+"10, he left Corsica with his older brother Joseph to study at the Ecole "
+"Militaire in Paris."
+msgstr "(1769-1821) Né le 15 août 1769 à Ajaccio en Corse, il quitte la Corse à 10 ans avec son frère Joseph pour faire des études à l'Ecole Militaire à Paris."
+
+#: src/tree.py:417
+msgid ""
+"(1778-1846) While still a child, Louis joined his brother Napoleon in Paris. "
+"He accompanied his brother on his early military campaigns and became King "
+"of Holland at the age of 28."
+msgstr "(1778-1846) Enfant, Louis rejoint son frère Napoléon à Paris. Il l'accompagne dans ses campagnes et devient roi de Hollande à 28 ans."
+
+#: src/tree.py:422
+msgid ""
+"(1763-1814) She was born in Martinique and arrived in Paris at the age of "
+"16. Her first hushband Alexandre de Beauharnais was guillotined during the "
+"French Revolution."
+msgstr "(1763-1814) Née à la Martinique elle arrive à Paris à 16 ans et épouse son premier mari Alexandre de Beauharnais guillotiné pendant la Révolution."
+
+#: src/tree.py:426
+msgid ""
+"(1791-1847) She was daughter of the king of Austria and became Napoleon's "
+"second wife."
+msgstr "(1791-1847) Fille du roi d'Autriche, c'est la deuxième épouse de Napoléon."
+
+#: src/tree.py:431
+msgid ""
+"(1811-1832) When the French Empire fell once and for all, he followed his "
+"mother to Austria and died at a very young age, only 21 years old."
+msgstr "(1811-1832) Il est censé reigner à la suite de son père mais à la chute de l'Empire, il suit sa mère en Autriche où il meurt très jeune à 21 ans"
+
+#: src/tree.py:436
+msgid ""
+"(1783-1837) She had a gift for music and wrote and composed romantic songs. "
+"She married Louis and became Queen of Holland."
+msgstr "(1783-1837) Douée pour la musique elle écrit et compose des chansons. En épousant Louis, elle devient reine de Hollande."
+
+#: src/tree.py:440
+msgid ""
+"(1808-1873) He had to spend a large part of his childhood in Switzerland "
+"with his mother. He became officer then president in 1848."
+msgstr "(1808-1873) Exilé en Suisse avec sa mère, il devient officier puis est élu président en France en 1848."
+
+#: src/tree.py:445
+msgid ""
+"(1826-1920) Daughter of a Spanish count, she became Empress through her "
+"marriage in 1853."
+msgstr "(1826-1920) Fille d'un comte espagnol, elle devient impératrice par son mariage en 1853."
+
+#: src/tree.py:449
+msgid ""
+"(1856-1879) When the French army was beaten by the Prussian army, he had to "
+"leave France. He chose to become a soldier for the English and was killed in "
+"South Africa."
+msgstr "(1856-1879) Une fois son père battu par l'armée prussienne, il quitte la France pour devenir soldat anglais et est tué en Afrique du Sud."

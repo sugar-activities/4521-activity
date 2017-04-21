@@ -1,0 +1,7 @@
+[Activity]
+name = Roots
+activity_version = 1
+bundle_id = org.olpcfrance.Roots
+exec = sugar-activity activity.RootsActivity
+icon = roots-icon
+license = GPLv2+

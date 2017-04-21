@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 55 55"
+   height="55px"
+   version="1.1"
+   viewBox="0 0 55 55"
+   width="55px"
+   x="0px"
+   xml:space="preserve"
+   y="0px"
+   id="svg2"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="edit-paste.svg"><metadata
+     id="metadata22"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs20" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="4.7454545"
+     inkscape:cx="1.1590038"
+     inkscape:cy="22.553856"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" /><g
+     display="block"
+     id="edit-paste">
+	<g
+   id="Paste">
+		<g
+   id="g6">
+			<polygon
+   points="32.109,36.159 32.109,9.173 20.773,9.173 11.386,18.559 11.386,36.159 "
+   id="polygon8"
+   style="fill:#dedede" />
+			<polygon
+   points="32.109,36.159 32.109,9.173 20.773,9.173 11.386,18.559 11.386,36.159 "
+   id="polygon10"
+   style="fill:none;stroke:#7f7f7f;stroke-width:2.98670006;stroke-linecap:round" />
+			<polyline
+   points="11.386,18.559 20.773,18.559 20.773,9.173    "
+   id="polyline12"
+   style="fill:none;stroke:#7f7f7f;stroke-width:2.98670006" />
+			
+				<line
+   x1="40.744999"
+   x2="40.744999"
+   y1="47.248001"
+   y2="35.084"
+   id="line14"
+   style="fill:none;stroke:#7f7f7f;stroke-width:2.98670006;stroke-linecap:round;stroke-linejoin:round" />
+			<polyline
+   points="     45.875,41.164 40.745,47.248 35.615,41.164    "
+   id="polyline16"
+   style="fill:none;stroke:#7f7f7f;stroke-width:2.98670006;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+	</g>
+</g></svg>
